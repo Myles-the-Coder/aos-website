@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: whitesmoke;
+}
+
+.title-card {
+  background-image: url('https://images.unsplash.com/photo-1483877057766-c4ab570f24bf?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDV8cm5TS0RId3dZVWt8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+  height: 100%;
+}
+/*# sourceMappingURL=index.HASH_REF_8a6e625a6f078c797be837fbf556d9ac.css.map */

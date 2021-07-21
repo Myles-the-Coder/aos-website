@@ -1,0 +1,5 @@
+"use strict";
+var _aos = require('aos');
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+var _aosDefault = _parcelHelpers.interopDefault(_aos);
+_aosDefault.default;
